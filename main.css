@@ -1,0 +1,53 @@
+.Добро{
+    background-color: lightslategray;
+    border: solid red;
+    border-radius: 25px;
+    text-align: center;
+}
+.i{
+    background-color: green;
+}
+.p{
+    background-color: purple;
+}
+table{
+    text-align: center;
+}
+.trtr{
+    background-color: red;
+}
+.Полная{
+    background-color: yellow;
+    text-align: center;
+    width: 150px;
+}
+.Tesla{
+    color: brown;
+}
+.Y{
+    color: red;
+}
+.l{
+    color: yellow;
+}
+.S{
+    color: green;
+}
+.Наши{
+    color: green;
+}
+.gfgf{
+    list-style: none;
+}
+.rere{
+    background-color: chartreuse;
+    width: 250px;
+}
+iframe{
+    width: 400px;
+    height: 400px;
+}
+.iuiu{
+    width: 500px;
+    height: 350px;
+}
